@@ -72,6 +72,24 @@ experience:
     date_end: '2018-12-12'
     description: Taught electronic and researched semiconductor physics.
     
+  - title: Graduate Research Assistant
+    company: Portland State University
+    company_url: https://www.pdx.edu
+    company_logo: psu
+    location: Portland, Oregon
+    date_start: '2018-03-01'
+    date_end: '2018-09-15'
+    description: Gerry Sussman
+    
+  - title: Graduate Research Assistant
+    company: Portland State University
+    company_url: https://www.pdx.edu
+    company_logo: psu
+    location: Portland, Oregon
+    date_start: '2015-09-16'
+    date_end: '2017-06-15'
+    description: Lisa Bates
+    
  
 
 design:
