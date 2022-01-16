@@ -54,6 +54,15 @@ experience:
     date_end: '2020-12-16'
     description: Taught electronic engineering and researched semiconductor physics.
     
+  - title: administrative Assistant
+    company: Portland State University
+    company_url: https://www.pdx.edu
+    company_logo: psu
+    location: Portland, Oregon
+    date_start: '2018-12-12'
+    date_end: '2019-06-20'
+    description: Deborah Stein
+    
  
 
 design:
