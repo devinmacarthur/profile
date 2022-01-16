@@ -25,8 +25,8 @@ experience:
   - title: Graduate Research Assistant
     company: Portland State University
     company_url: ''
-    company_logo: org-gc
-    location: California
+    company_logo: psu
+    location: Portland, Oregon
     date_start: '2021-01-01'
     date_end: ''
     description: |2-
@@ -39,8 +39,8 @@ experience:
   - title: Developer/Consultant
     company: Parking Reform Network
     company_url: https://parkingreform.org
-    company_logo: org-x
-    location: California
+    company_logo: prn_logo
+    location: Portland, Oregon
     date_start: '2021-10-25'
     date_end: '2021-11-27'
     description: Taught electronic engineering and researched semiconductor physics.
