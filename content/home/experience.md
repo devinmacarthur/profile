@@ -63,6 +63,15 @@ experience:
     date_end: '2019-06-20'
     description: Deborah Stein
     
+  - title: Grader
+    company: Portland State University
+    company_url: https://www.pdx.edu
+    company_logo: psu
+    location: Portland, Oregon
+    date_start: '2018-09-24'
+    date_end: '2018-12-12'
+    description: Taught electronic and researched semiconductor physics.
+    
  
 
 design:
