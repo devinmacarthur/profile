@@ -24,10 +24,10 @@ date_format: Jan 2006
 experience:
   - title: Graduate Research Assistant
     company: Portland State University
-    company_url: ''
+    company_url: https://www.pdx.edu
     company_logo: psu
     location: Portland, Oregon
-    date_start: '2021-01-01'
+    date_start: '2020-12-16'
     date_end: ''
     description: |2-
         Responsibilities include:
@@ -43,6 +43,24 @@ experience:
     location: Portland, Oregon
     date_start: '2021-10-25'
     date_end: '2021-11-27'
+    description: Taught electronic engineering and researched semiconductor physics.
+    
+  - title: Graduate Research Assistant
+    company: Portland State University
+    company_url: https://www.pdx.edu
+    company_logo: psu
+    location: Portland, Oregon
+    date_start: '2019-12-16'
+    date_end: '2020-12-16'
+    description: Taught electronic engineering and researched semiconductor physics.
+    
+  - title: Graduate Research Assistant
+    company: Portland State University
+    company_url: https://www.pdx.edu
+    company_logo: psu
+    location: Portland, Oregon
+    date_start: '2015-09-16'
+    date_end: '2017-06-15'
     description: Taught electronic engineering and researched semiconductor physics.
 
 design:
