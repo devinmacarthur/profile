@@ -14,7 +14,7 @@ organizations:
   url: https://www.pdx.edu
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include community development, affordable housing finance, anti-displacement, and equity planning.
 
 # Interests to show in About widget
 interests:
@@ -26,7 +26,7 @@ interests:
 education:
   courses:
   - course: MUS in Urban Studies
-    institution: Portland State University
+    institution:In Progress <br> Portland State University
     year: 2022
   - course: BS in Community Development
     institution: Portland State University
