@@ -70,7 +70,7 @@ experience:
     location: Portland, Oregon
     date_start: '2018-09-24'
     date_end: '2018-12-12'
-    description: Taught electronic engineering and researched semiconductor physics.
+    description: Taught electronic and researched semiconductor physics.
     
  - title: Graduate Research Assistant
     company: Portland State University
