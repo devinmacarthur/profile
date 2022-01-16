@@ -16,7 +16,7 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
+- description: 100%
   icon: r-project
   icon_pack: fab
   name: R
@@ -24,10 +24,34 @@ feature:
   icon: chart-line
   icon_pack: fas
   name: Statistics
-- description: 10%
-  icon: camera-retro
-  icon_pack: fas
-  name: Photography
+- description: 100%
+  icon: python
+  icon_pack: fab
+  name: Python
+- description: 100%
+  icon: ArcGIS-Pro
+  icon_pack: custom
+  name: ArcGIS
+- description: 100%
+  icon: qgis
+  icon_pack: custom
+  name: QGIS
+- description: 100%
+  icon: shiny
+  icon_pack: custom
+  name: Shiny
+- description: 85%
+  icon: html5
+  icon_pack: fab
+  name: HTML5
+- description: 85%
+  icon: css3-alt
+  icon_pack: fab
+  name: CSS3
+- description: 50%
+  icon: js
+  icon_pack: fab
+  name: JavaScript
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
