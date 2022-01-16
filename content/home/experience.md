@@ -54,6 +54,33 @@ experience:
     date_end: '2020-12-16'
     description: Taught electronic engineering and researched semiconductor physics.
     
+  - title: administrative Assistant
+    company: Portland State University
+    company_url: https://www.pdx.edu
+    company_logo: psu
+    location: Portland, Oregon
+    date_start: '2018-12-12'
+    date_end: '2019-06-20'
+    description: Deborah Stein    
+    
+  - title: Grader
+    company: Portland State University
+    company_url: https://www.pdx.edu
+    company_logo: psu
+    location: Portland, Oregon
+    date_start: '2018-09-24'
+    date_end: '2018-12-12'
+    description: Karren Gibson 
+    
+ - title: Grader
+    company: Portland State University
+    company_url: https://www.pdx.edu
+    company_logo: psu
+    location: Portland, Oregon
+    date_start: '2018-03-01'
+    date_end: '2018-09-15'
+    description: Gerry Sussman
+    
   - title: Graduate Research Assistant
     company: Portland State University
     company_url: https://www.pdx.edu
@@ -61,7 +88,7 @@ experience:
     location: Portland, Oregon
     date_start: '2015-09-16'
     date_end: '2017-06-15'
-    description: Taught electronic engineering and researched semiconductor physics.
+    description: Lisa Bates
 
 design:
   columns: '2'
