@@ -70,9 +70,9 @@ experience:
     location: Portland, Oregon
     date_start: '2018-09-24'
     date_end: '2018-12-12'
-    description: Karren Gibson 
+    description: Karen Gibson 
     
- - title: Grader
+ - title: Graduate Research Assistant
     company: Portland State University
     company_url: https://www.pdx.edu
     company_logo: psu
