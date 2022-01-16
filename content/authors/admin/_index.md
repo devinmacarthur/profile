@@ -26,7 +26,7 @@ interests:
 education:
   courses:
   - course: MUS in Urban Studies
-    institution: in progress <br> Portland State University
+    institution: Portland State University (in progress) 
     year: 2022
   - course: BS in Community Development
     institution: Portland State University
