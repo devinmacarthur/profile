@@ -36,13 +36,13 @@ experience:
         * Modelling
         * Deploying
         
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
+  - title: Developer/Consultant
+    company: Parking Reform Network
+    company_url: https://parkingreform.org
     company_logo: org-x
     location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
+    date_start: '2021-10-25'
+    date_end: '2021-11-27'
     description: Taught electronic engineering and researched semiconductor physics.
 
 design:
