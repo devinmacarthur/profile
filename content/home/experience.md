@@ -32,9 +32,13 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Analysing * Other stuff
+        * Analysing 
         * Modelling
         * Deploying
+        
+        other stuff:
+        
+        * This stuff
         
   - title: Developer/Consultant
     company: Parking Reform Network
